@@ -1,0 +1,4 @@
+campaign_name,cohort_size,projected_reach,projected_retained,projected_reactivated,channel,offer
+At risk: first 90 days,534,531,425,0,sms,Clinician check-in on side effects
+At risk: after 90 days,935,917,734,0,email,Refill reminder + plan options
+Win back: lapsed,1358,1333,0,160,email,"Check-in message, no offer"

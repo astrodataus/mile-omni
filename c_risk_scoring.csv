@@ -1,0 +1,162 @@
+adherence_status,persistence_cohort,refill_timeliness,engagement_channel,clinical_risk_band,program_entry,member_count,axis_lapse_pressure,axis_clinical_risk,axis_early_tenure,axis_reachability,axis_refill_timeliness,tenure_months_total
+lapsed,early,missed,app,high,direct_rx,129,0.8677,1.0,1.0,1.0,1.0,177.8
+lapsed,early,missed,app,high,hcp,78,0.8662,1.0,1.0,1.0,1.0,120.2
+lapsed,early,missed,app,high,transfer,28,0.8745,1.0,1.0,1.0,1.0,37.2
+lapsed,early,missed,app,moderate,direct_rx,65,0.8615,0.5,1.0,1.0,1.0,101.0
+lapsed,early,missed,app,moderate,hcp,36,0.9029,0.5,1.0,1.0,1.0,57.8
+lapsed,early,missed,app,moderate,transfer,11,0.8998,0.5,1.0,1.0,1.0,14.9
+lapsed,early,missed,none,high,direct_rx,47,0.8916,1.0,1.0,0.0,1.0,73.0
+lapsed,early,missed,none,high,hcp,24,0.8856,1.0,1.0,0.0,1.0,30.5
+lapsed,early,missed,none,high,transfer,8,0.8132,1.0,1.0,0.0,1.0,13.5
+lapsed,early,missed,none,moderate,direct_rx,33,0.9047,0.5,1.0,0.0,1.0,59.7
+lapsed,early,missed,none,moderate,hcp,13,0.8761,0.5,1.0,0.0,1.0,20.8
+lapsed,early,missed,none,moderate,transfer,12,0.8931,0.5,1.0,0.0,1.0,18.6
+lapsed,early,missed,phone,high,direct_rx,99,0.8739,1.0,1.0,0.5,1.0,154.1
+lapsed,early,missed,phone,high,hcp,45,0.8308,1.0,1.0,0.5,1.0,58.0
+lapsed,early,missed,phone,high,transfer,17,0.9033,1.0,1.0,0.5,1.0,25.0
+lapsed,early,missed,phone,moderate,direct_rx,45,0.8922,0.5,1.0,0.5,1.0,67.4
+lapsed,early,missed,phone,moderate,hcp,20,0.8504,0.5,1.0,0.5,1.0,30.3
+lapsed,early,missed,phone,moderate,transfer,11,0.8476,0.5,1.0,0.5,1.0,19.0
+lapsed,long_term,missed,app,high,direct_rx,35,0.843,1.0,0.0,1.0,1.0,888.3
+lapsed,long_term,missed,app,high,hcp,14,0.8349,1.0,0.0,1.0,1.0,374.8
+lapsed,long_term,missed,app,high,transfer,5,0.8326,1.0,0.0,1.0,1.0,126.7
+lapsed,long_term,missed,app,moderate,direct_rx,17,0.8533,0.5,0.0,1.0,1.0,473.1
+lapsed,long_term,missed,app,moderate,hcp,11,0.9318,0.5,0.0,1.0,1.0,239.1
+lapsed,long_term,missed,none,high,direct_rx,15,0.8383,1.0,0.0,0.0,1.0,345.8
+lapsed,long_term,missed,none,high,hcp,7,0.8368,1.0,0.0,0.0,1.0,154.3
+lapsed,long_term,missed,none,high,transfer,7,0.8111,1.0,0.0,0.0,1.0,172.6
+lapsed,long_term,missed,none,moderate,direct_rx,12,0.8562,0.5,0.0,0.0,1.0,293.1
+lapsed,long_term,missed,none,moderate,hcp,4,0.8713,0.5,0.0,0.0,1.0,102.9
+lapsed,long_term,missed,none,moderate,transfer,1,0.6222,0.5,0.0,0.0,1.0,33.4
+lapsed,long_term,missed,phone,high,direct_rx,18,0.8619,1.0,0.0,0.5,1.0,420.5
+lapsed,long_term,missed,phone,high,hcp,8,0.8488,1.0,0.0,0.5,1.0,185.9
+lapsed,long_term,missed,phone,high,transfer,4,1.0,1.0,0.0,0.5,1.0,90.4
+lapsed,long_term,missed,phone,moderate,direct_rx,19,0.8815,0.5,0.0,0.5,1.0,492.0
+lapsed,long_term,missed,phone,moderate,hcp,8,0.8556,0.5,0.0,0.5,1.0,212.5
+lapsed,long_term,missed,phone,moderate,transfer,4,0.7819,0.5,0.0,0.5,1.0,73.4
+lapsed,stable,missed,app,high,direct_rx,58,0.8886,1.0,0.4,1.0,1.0,336.3
+lapsed,stable,missed,app,high,hcp,29,0.8633,1.0,0.4,1.0,1.0,139.3
+lapsed,stable,missed,app,high,transfer,8,0.8639,1.0,0.4,1.0,1.0,55.4
+lapsed,stable,missed,app,moderate,direct_rx,36,0.8798,0.5,0.4,1.0,1.0,221.4
+lapsed,stable,missed,app,moderate,hcp,16,0.8465,0.5,0.4,1.0,1.0,100.2
+lapsed,stable,missed,app,moderate,transfer,5,0.8178,0.5,0.4,1.0,1.0,30.2
+lapsed,stable,missed,none,high,direct_rx,22,0.8545,1.0,0.4,0.0,1.0,136.5
+lapsed,stable,missed,none,high,hcp,8,0.8785,1.0,0.4,0.0,1.0,52.5
+lapsed,stable,missed,none,high,transfer,11,0.9207,1.0,0.4,0.0,1.0,75.5
+lapsed,stable,missed,none,moderate,direct_rx,11,0.9051,0.5,0.4,0.0,1.0,64.3
+lapsed,stable,missed,none,moderate,hcp,4,0.9,0.5,0.4,0.0,1.0,26.0
+lapsed,stable,missed,none,moderate,transfer,2,0.9139,0.5,0.4,0.0,1.0,7.1
+lapsed,stable,missed,phone,high,direct_rx,29,0.8929,1.0,0.4,0.5,1.0,186.9
+lapsed,stable,missed,phone,high,hcp,25,0.844,1.0,0.4,0.5,1.0,155.0
+lapsed,stable,missed,phone,high,transfer,10,0.9078,1.0,0.4,0.5,1.0,54.1
+lapsed,stable,missed,phone,moderate,direct_rx,19,0.8339,0.5,0.4,0.5,1.0,112.4
+lapsed,stable,missed,phone,moderate,hcp,15,0.8978,0.5,0.4,0.5,1.0,111.3
+lapsed,stable,missed,phone,moderate,transfer,3,0.9407,0.5,0.4,0.5,1.0,16.6
+lapsing,early,delayed,app,high,direct_rx,89,0.4474,1.0,1.0,1.0,0.6,135.3
+lapsing,early,delayed,app,high,hcp,63,0.4403,1.0,1.0,1.0,0.6,83.3
+lapsing,early,delayed,app,high,transfer,24,0.4258,1.0,1.0,1.0,0.6,35.1
+lapsing,early,delayed,app,moderate,direct_rx,211,0.4376,0.5,1.0,1.0,0.6,306.3
+lapsing,early,delayed,app,moderate,hcp,115,0.4476,0.5,1.0,1.0,0.6,184.3
+lapsing,early,delayed,app,moderate,transfer,44,0.4339,0.5,1.0,1.0,0.6,76.5
+lapsing,early,delayed,none,high,direct_rx,36,0.4295,1.0,1.0,0.0,0.6,54.7
+lapsing,early,delayed,none,high,hcp,32,0.4247,1.0,1.0,0.0,0.6,54.0
+lapsing,early,delayed,none,high,transfer,13,0.4432,1.0,1.0,0.0,0.6,22.0
+lapsing,early,delayed,none,moderate,direct_rx,74,0.4362,0.5,1.0,0.0,0.6,115.3
+lapsing,early,delayed,none,moderate,hcp,45,0.4329,0.5,1.0,0.0,0.6,65.1
+lapsing,early,delayed,none,moderate,transfer,18,0.4215,0.5,1.0,0.0,0.6,30.4
+lapsing,early,delayed,phone,high,direct_rx,85,0.4342,1.0,1.0,0.5,0.6,130.7
+lapsing,early,delayed,phone,high,hcp,52,0.4326,1.0,1.0,0.5,0.6,69.7
+lapsing,early,delayed,phone,high,transfer,14,0.4405,1.0,1.0,0.5,0.6,23.0
+lapsing,early,delayed,phone,moderate,direct_rx,155,0.44,0.5,1.0,0.5,0.6,208.7
+lapsing,early,delayed,phone,moderate,hcp,87,0.4414,0.5,1.0,0.5,0.6,122.2
+lapsing,early,delayed,phone,moderate,transfer,37,0.4353,0.5,1.0,0.5,0.6,49.3
+lapsing,long_term,delayed,app,high,direct_rx,18,0.4336,1.0,0.0,1.0,0.6,409.6
+lapsing,long_term,delayed,app,high,hcp,11,0.4222,1.0,0.0,1.0,0.6,257.0
+lapsing,long_term,delayed,app,high,transfer,3,0.4037,1.0,0.0,1.0,0.6,64.3
+lapsing,long_term,delayed,app,moderate,direct_rx,41,0.4201,0.5,0.0,1.0,0.6,1030.0
+lapsing,long_term,delayed,app,moderate,hcp,27,0.4559,0.5,0.0,1.0,0.6,665.6
+lapsing,long_term,delayed,app,moderate,transfer,12,0.4526,0.5,0.0,1.0,0.6,262.6
+lapsing,long_term,delayed,none,high,direct_rx,8,0.4178,1.0,0.0,0.0,0.6,195.3
+lapsing,long_term,delayed,none,high,hcp,7,0.4344,1.0,0.0,0.0,0.6,144.1
+lapsing,long_term,delayed,none,high,transfer,3,0.4593,1.0,0.0,0.0,0.6,76.9
+lapsing,long_term,delayed,none,moderate,direct_rx,23,0.4341,0.5,0.0,0.0,0.6,583.6
+lapsing,long_term,delayed,none,moderate,hcp,7,0.4302,0.5,0.0,0.0,0.6,166.9
+lapsing,long_term,delayed,none,moderate,transfer,4,0.4111,0.5,0.0,0.0,0.6,87.0
+lapsing,long_term,delayed,phone,high,direct_rx,21,0.4339,1.0,0.0,0.5,0.6,519.1
+lapsing,long_term,delayed,phone,high,hcp,13,0.4026,1.0,0.0,0.5,0.6,320.0
+lapsing,long_term,delayed,phone,high,transfer,5,0.4211,1.0,0.0,0.5,0.6,118.4
+lapsing,long_term,delayed,phone,moderate,direct_rx,26,0.411,0.5,0.0,0.5,0.6,595.8
+lapsing,long_term,delayed,phone,moderate,hcp,14,0.4439,0.5,0.0,0.5,0.6,304.5
+lapsing,long_term,delayed,phone,moderate,transfer,6,0.4318,0.5,0.0,0.5,0.6,136.0
+lapsing,stable,delayed,app,high,direct_rx,45,0.4404,1.0,0.4,1.0,0.6,263.7
+lapsing,stable,delayed,app,high,hcp,19,0.4489,1.0,0.4,1.0,0.6,113.6
+lapsing,stable,delayed,app,high,transfer,10,0.4583,1.0,0.4,1.0,0.6,51.3
+lapsing,stable,delayed,app,moderate,direct_rx,72,0.4324,0.5,0.4,1.0,0.6,464.8
+lapsing,stable,delayed,app,moderate,hcp,50,0.44,0.5,0.4,1.0,0.6,291.7
+lapsing,stable,delayed,app,moderate,transfer,18,0.4455,0.5,0.4,1.0,0.6,122.2
+lapsing,stable,delayed,none,high,direct_rx,13,0.4272,1.0,0.4,0.0,0.6,66.8
+lapsing,stable,delayed,none,high,hcp,15,0.441,1.0,0.4,0.0,0.6,96.2
+lapsing,stable,delayed,none,high,transfer,9,0.4479,1.0,0.4,0.0,0.6,55.4
+lapsing,stable,delayed,none,moderate,direct_rx,36,0.4524,0.5,0.4,0.0,0.6,209.9
+lapsing,stable,delayed,none,moderate,hcp,24,0.4445,0.5,0.4,0.0,0.6,160.5
+lapsing,stable,delayed,none,moderate,transfer,8,0.4454,0.5,0.4,0.0,0.6,44.4
+lapsing,stable,delayed,phone,high,direct_rx,26,0.4302,1.0,0.4,0.5,0.6,168.5
+lapsing,stable,delayed,phone,high,hcp,18,0.4486,1.0,0.4,0.5,0.6,110.7
+lapsing,stable,delayed,phone,high,transfer,3,0.3815,1.0,0.4,0.5,0.6,20.9
+lapsing,stable,delayed,phone,moderate,direct_rx,55,0.4335,0.5,0.4,0.5,0.6,329.6
+lapsing,stable,delayed,phone,moderate,hcp,40,0.4178,0.5,0.4,0.5,0.6,261.3
+lapsing,stable,delayed,phone,moderate,transfer,14,0.438,0.5,0.4,0.5,0.6,71.3
+on_track,early,on time,app,low,direct_rx,278,0.1334,0.0,1.0,1.0,0.0,418.0
+on_track,early,on time,app,low,hcp,180,0.1277,0.0,1.0,1.0,0.0,264.9
+on_track,early,on time,app,low,transfer,60,0.1316,0.0,1.0,1.0,0.0,89.3
+on_track,early,on time,app,moderate,direct_rx,145,0.1307,0.5,1.0,1.0,0.0,213.9
+on_track,early,on time,app,moderate,hcp,87,0.1318,0.5,1.0,1.0,0.0,123.3
+on_track,early,on time,app,moderate,transfer,29,0.162,0.5,1.0,1.0,0.0,34.8
+on_track,early,on time,none,low,direct_rx,127,0.1332,0.0,1.0,0.0,0.0,197.3
+on_track,early,on time,none,low,hcp,73,0.1413,0.0,1.0,0.0,0.0,118.1
+on_track,early,on time,none,low,transfer,29,0.135,0.0,1.0,0.0,0.0,42.3
+on_track,early,on time,none,moderate,direct_rx,73,0.1307,0.5,1.0,0.0,0.0,116.9
+on_track,early,on time,none,moderate,hcp,33,0.1295,0.5,1.0,0.0,0.0,45.5
+on_track,early,on time,none,moderate,transfer,19,0.1318,0.5,1.0,0.0,0.0,29.5
+on_track,early,on time,phone,low,direct_rx,204,0.1344,0.0,1.0,0.5,0.0,307.4
+on_track,early,on time,phone,low,hcp,129,0.1328,0.0,1.0,0.5,0.0,195.0
+on_track,early,on time,phone,low,transfer,43,0.1117,0.0,1.0,0.5,0.0,59.5
+on_track,early,on time,phone,moderate,direct_rx,100,0.1384,0.5,1.0,0.5,0.0,141.6
+on_track,early,on time,phone,moderate,hcp,59,0.1354,0.5,1.0,0.5,0.0,93.0
+on_track,early,on time,phone,moderate,transfer,17,0.1243,0.5,1.0,0.5,0.0,29.6
+on_track,long_term,on time,app,low,direct_rx,232,0.1301,0.0,0.0,1.0,0.0,5549.4
+on_track,long_term,on time,app,low,hcp,137,0.1298,0.0,0.0,1.0,0.0,3401.8
+on_track,long_term,on time,app,low,transfer,54,0.1222,0.0,0.0,1.0,0.0,1378.0
+on_track,long_term,on time,app,moderate,direct_rx,126,0.1277,0.5,0.0,1.0,0.0,2967.9
+on_track,long_term,on time,app,moderate,hcp,84,0.1317,0.5,0.0,1.0,0.0,2047.6
+on_track,long_term,on time,app,moderate,transfer,20,0.1613,0.5,0.0,1.0,0.0,431.3
+on_track,long_term,on time,none,low,direct_rx,104,0.1293,0.0,0.0,0.0,0.0,2520.8
+on_track,long_term,on time,none,low,hcp,62,0.1378,0.0,0.0,0.0,0.0,1492.9
+on_track,long_term,on time,none,low,transfer,22,0.1193,0.0,0.0,0.0,0.0,498.7
+on_track,long_term,on time,none,moderate,direct_rx,42,0.1518,0.5,0.0,0.0,0.0,1063.4
+on_track,long_term,on time,none,moderate,hcp,30,0.1514,0.5,0.0,0.0,0.0,680.2
+on_track,long_term,on time,none,moderate,transfer,13,0.1432,0.5,0.0,0.0,0.0,304.3
+on_track,long_term,on time,phone,low,direct_rx,176,0.143,0.0,0.0,0.5,0.0,4308.6
+on_track,long_term,on time,phone,low,hcp,105,0.1257,0.0,0.0,0.5,0.0,2575.5
+on_track,long_term,on time,phone,low,transfer,36,0.1516,0.0,0.0,0.5,0.0,864.0
+on_track,long_term,on time,phone,moderate,direct_rx,64,0.1225,0.5,0.0,0.5,0.0,1550.2
+on_track,long_term,on time,phone,moderate,hcp,57,0.1349,0.5,0.0,0.5,0.0,1411.9
+on_track,long_term,on time,phone,moderate,transfer,18,0.1286,0.5,0.0,0.5,0.0,443.6
+on_track,stable,on time,app,low,direct_rx,426,0.1334,0.0,0.4,1.0,0.0,4512.2
+on_track,stable,on time,app,low,hcp,249,0.1355,0.0,0.4,1.0,0.0,2665.7
+on_track,stable,on time,app,low,transfer,90,0.1337,0.0,0.4,1.0,0.0,958.8
+on_track,stable,on time,app,moderate,direct_rx,240,0.1367,0.5,0.4,1.0,0.0,2532.1
+on_track,stable,on time,app,moderate,hcp,127,0.1227,0.5,0.4,1.0,0.0,1338.3
+on_track,stable,on time,app,moderate,transfer,49,0.1316,0.5,0.4,1.0,0.0,521.5
+on_track,stable,on time,none,low,direct_rx,176,0.1319,0.0,0.4,0.0,0.0,1872.0
+on_track,stable,on time,none,low,hcp,90,0.1393,0.0,0.4,0.0,0.0,957.0
+on_track,stable,on time,none,low,transfer,35,0.1362,0.0,0.4,0.0,0.0,377.1
+on_track,stable,on time,none,moderate,direct_rx,84,0.1416,0.5,0.4,0.0,0.0,897.9
+on_track,stable,on time,none,moderate,hcp,47,0.1229,0.5,0.4,0.0,0.0,494.7
+on_track,stable,on time,none,moderate,transfer,19,0.124,0.5,0.4,0.0,0.0,199.9
+on_track,stable,on time,phone,low,direct_rx,315,0.14,0.0,0.4,0.5,0.0,3306.6
+on_track,stable,on time,phone,low,hcp,204,0.1355,0.0,0.4,0.5,0.0,2160.5
+on_track,stable,on time,phone,low,transfer,59,0.1323,0.0,0.4,0.5,0.0,630.0
+on_track,stable,on time,phone,moderate,direct_rx,175,0.1307,0.5,0.4,0.5,0.0,1842.3
+on_track,stable,on time,phone,moderate,hcp,95,0.138,0.5,0.4,0.5,0.0,999.0
+on_track,stable,on time,phone,moderate,transfer,34,0.1535,0.5,0.4,0.5,0.0,373.9

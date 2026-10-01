@@ -1,0 +1,5 @@
+lifecycle_stage,subscriber_count,mrr_total,high_risk_count
+established,10011,716696.73,0
+new,1994,141651.21,0
+at_risk,1469,108500.83,699
+win_back,1358,97817.64,1326

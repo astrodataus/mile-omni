@@ -1,0 +1,13 @@
+adherence_status,persistence_cohort,tenure_bucket,patient_count,mean_tenure_months,past_cadence_count
+lapsed,early,0-3,721,1.5,721
+lapsed,long_term,13-24,83,17.9,83
+lapsed,long_term,25+,106,30.1,106
+lapsed,stable,4-12,311,6.0,311
+lapsing,early,0-3,1194,1.5,1194
+lapsing,long_term,13-24,124,18.0,124
+lapsing,long_term,25+,125,29.6,125
+lapsing,stable,4-12,475,6.1,475
+on_track,early,0-3,1685,1.5,0
+on_track,long_term,13-24,661,18.0,0
+on_track,long_term,25+,721,30.0,0
+on_track,stable,4-12,2514,10.6,0

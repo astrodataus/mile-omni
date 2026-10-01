@@ -1,0 +1,4 @@
+campaign_name,cohort_size,projected_reach,projected_retained,projected_reactivated,channel,offer
+Churn Risk: Mental Health,304,304,291,36,email,Refill reminder + 15% discount
+High LTV: Weight,1056,1056,1055,131,sms,Loyalty milestone reward
+Reactivation: Mental Health,117,117,109,12,email,"Check-in message, no offer"

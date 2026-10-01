@@ -1,0 +1,7 @@
+metric_key,metric_label,metric_value,metric_format,metric_note
+subscribers,Active subscribers,14832,int,snapshot 2025-07-01
+mrr_total,Monthly recurring revenue,1064666.41,usd,snapshot 2025-07-01
+mrr_at_risk,MRR at elevated or high risk,818144.64,usd,churn risk level
+churn_stage_share,In the churn-risk stage,0.3371,pct,lifecycle stage
+high_risk,High churn risk,2025,int,churn risk level
+lapsing,Lapsing or lapsed on refills,2809,int,refill adherence

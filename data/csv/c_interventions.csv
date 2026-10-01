@@ -1,0 +1,4 @@
+program_name,cohort_size,projected_stayed_on,projected_re_engaged,channel,offer
+Early Lapsers: High Risk,1046,480,196,refill reminder,Refill reminder + scheduling
+Stable Persisters: Moderate Risk,1395,548,98,nurse outreach,Nurse care call
+Long-Term: Clinical Risk,698,212,184,pharmacist contact,Copay / access support

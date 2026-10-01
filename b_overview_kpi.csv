@@ -1,0 +1,6 @@
+metric_key,metric_label,metric_value,metric_format,metric_note
+addressable,Addressable population,284000,int,market model
+eligible_untreated,Eligible and untreated,127400,int,market model
+channel_reach,Reachable through owned channels,38200,int,market model
+initiations,"Initiations, launch to date",4200,int,market model
+candidates,De-identified candidates sampled,6000,int,reachable pool

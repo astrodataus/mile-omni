@@ -1,0 +1,2 @@
+patient_id,adherence_status,persistence_cohort,refill_timeliness,refill_cadence_days,days_since_last_refill,engagement_channel,clinical_risk_band,tenure_months,program_entry,days_to_lapse_est,lapse_note,lapse_probability_band
+0631,lapsing,stable,delayed,30,42,phone,moderate,9.0,direct_rx,0,,elevated

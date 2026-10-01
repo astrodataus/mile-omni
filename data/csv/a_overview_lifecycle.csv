@@ -1,0 +1,6 @@
+lifecycle_stage,subscriber_count,mrr_total,high_risk_count
+adherence,5875,416808.13,320
+churn_risk,5000,364709.15,813
+activation,2276,163257.20,0
+win_back,890,63804.46,890
+acquisition,791,56087.47,2

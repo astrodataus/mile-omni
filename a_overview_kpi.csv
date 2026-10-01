@@ -1,0 +1,7 @@
+metric_key,metric_label,metric_value,metric_format,metric_note
+subscribers,Active subscribers,14832,int,snapshot 2025-07-01
+mrr_total,Monthly recurring revenue,1064666.41,usd,snapshot 2025-07-01
+at_risk,At risk,1469,int,"lapsing, or high churn risk"
+win_back,"Lapsed, to win back",1358,int,15+ days past a refill
+early_lapse_share,Of lapses happen in the first 90 days,0.4197,pct,month on therapy at lapse
+mrr_at_risk,MRR at risk,108500.83,usd,held by at-risk members

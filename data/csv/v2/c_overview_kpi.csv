@@ -1,0 +1,7 @@
+metric_key,metric_label,metric_value,metric_format,metric_note
+patients,Patients in the program,8720,int,program roster
+on_track,On track,5581,int,adherence status
+lapsing,Lapsing,1918,int,adherence status
+lapsed,Lapsed,1221,int,adherence status
+median_tenure,Median time on therapy,8.4,months,tenure months
+early_lapse_share,Of lapses happen in the first 90 days,0.6636,pct,month on therapy at lapse

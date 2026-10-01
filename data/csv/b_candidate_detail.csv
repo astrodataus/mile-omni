@@ -1,0 +1,2 @@
+candidate_id,region,treatment_status,coverage_tier,indication_fit,engagement_readiness,acq_cost_band,awareness_stage,hcp_referral,days_in_evaluation
+0274,northeast,untreated,commercial,high,moderate,medium,re_engagement,true,61
